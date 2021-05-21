@@ -1,5 +1,5 @@
 # Polarized light analyzer
-Description : This is my InnovateProject.<br>
+Description : This is my InnovateProject about polarized light.<br>
 Environment : QT Creator 5.14.0.<br>
 Help : You can use the network debugging assistant to debug the code.  
 Result : 
