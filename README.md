@@ -1,5 +1,5 @@
 # Polarized light analyzer
-Description : This is my InnovateProject.
+Description : This is my InnovateProject.<br>
 Environment : QT Creator environment
 
 Result : 
