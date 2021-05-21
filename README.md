@@ -1,6 +1,6 @@
 # Polarized light analyzer
 Description : This is my InnovateProject.<br>
-Environment : QT Creator environment
+Environment : QT Creator 5.14.0
 
 Result : 
 
