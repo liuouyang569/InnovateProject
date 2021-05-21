@@ -1,7 +1,7 @@
 # Polarized light analyzer
 Description : This is my InnovateProject.<br>
-Environment : QT Creator 5.14.0
-
+Environment : QT Creator 5.14.0.<br>
+Help : You can use the network debugging assistant to debug the code.  
 Result : 
 
 ![image-20210521101304427](https://github.com/liuouyang569/InnovateProject/blob/master//README.assets/image-20210521101304427.png)
