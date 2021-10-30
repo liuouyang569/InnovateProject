@@ -4,8 +4,8 @@ Environment : QT Creator 5.14.0.<br>
 Help : You can use the network debugging assistant to debug the code.  
 Performance : 
 
-![image](README.assets/image-20210521101304427.png.png)
+![image](/README.assets/image-20210521101304427.png.png)
 
-![image](README.assets/README.assets/image-20210521101304427.png)
+![image](/README.assets/README.assets/image-20210521101304427.png)
 
-![image](README.assets/README.assets/image-20210521101304427.png)
+![image](/README.assets/README.assets/image-20210521101304427.png)
